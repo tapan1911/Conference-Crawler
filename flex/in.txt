@@ -1,0 +1,817 @@
+------------http://www.firstinternet.co.uk-----------<!DOCTYPE html  PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+    <head profile="http://gmpg.org/xfn/11">
+
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+        <!-- Page titles and sub titles -->
+        <title>Web design Manchester | SEO Manchester | Web development Manchester</title>
+
+        <!-- Meta for Wordpress statistics -->
+        <meta name="generator" content="WordPress 3.1" /> 
+        <!-- Set any JQuery and end header - Add any scripts after wp_head ONLY -->
+
+<link rel='stylesheet' id='jquery.slimbox-css'  href='http://www.firstinternet.co.uk/wp-content/plugins/slimbox/stylesheets/jquery.slimbox.css?ver=2.03' type='text/css' media='all' />
+<link rel='stylesheet' id='frm-forms-css'  href='http://www.firstinternet.co.uk/wp-content/plugins/formidable/css/frm_display.css?ver=1.06.05' type='text/css' media='all' />
+<link rel='stylesheet' id='shortcodes-ultimate-css'  href='http://www.firstinternet.co.uk/wp-content/plugins/shortcodes-ultimate/css/style.css?ver=3.9.0' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.firstinternet.co.uk/wp-includes/js/l10n.js?ver=20101110'></script>
+<script type='text/javascript' src='http://www.firstinternet.co.uk/wp-includes/js/jquery/jquery.js?ver=1.4.4'></script>
+<script type='text/javascript' src='http://www.firstinternet.co.uk/wp-content/plugins/slimbox/javascript/jquery.slimbox.js?ver=2.03'></script>
+<script type='text/javascript' src='http://www.firstinternet.co.uk/wp-content/plugins/shortcodes-ultimate/js/init.js?ver=3.9.0'></script>
+<script type='text/javascript' src='https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.18/jquery-ui.min.js?ver=3.1'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.firstinternet.co.uk/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.firstinternet.co.uk/wp-includes/wlwmanifest.xml" /> 
+<link rel='index' title='First Internet' href='http://www.firstinternet.co.uk/' />
+<link rel='prev' title='Site Map' href='http://www.firstinternet.co.uk/sitemap/' />
+<link rel='next' title='News' href='http://www.firstinternet.co.uk/news/' />
+<meta name="generator" content="WordPress 3.1" />
+
+<!-- All in One SEO Pack 1.6.13.2 by Michael Torbert of Semper Fi Web Design[341,377] -->
+<meta name="description" content="First Internet, Web design Manchester, offers SEO, web design, web development, email marketing, branding, graphic design and online PR.  Call today for more information on our ranges of digital services 0161 941 5330." />
+<meta name="keywords" content="Web design Manchester, web development Manchester, SEO Manchester, Branding, Branding and Design, Manchester website designers, creative agency, web design agency," />
+<link rel="canonical" href="http://www.firstinternet.co.uk/" />
+<!-- /all in one seo pack -->
+<script type="text/javascript">
+	jQuery(document).ready(function($){	
+	    var select = $('a[href$=".bmp"],a[href$=".gif"],a[href$=".jpg"],a[href$=".jpeg"], a[href$=".png"],a[href$=".BMP"],a[href$=".GIF"],a[href$=".JPG"],a[href$=".JPEG"],a[href$=".PNG"]');
+		select.slimbox();
+	});
+</script>
+
+        <!-- Link to Wordpress stylesheet, pingbacks and alternates -->
+        <link rel="stylesheet" href="http://www.firstinternet.co.uk/wp-content/themes/firstinternet/style.css?123" type="text/css" media="screen" />
+        <link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://www.firstinternet.co.uk/feed/" />
+        <link rel="alternate" type="text/xml" title="RSS .92" href="http://www.firstinternet.co.uk/feed/rss/" />
+        <link rel="alternate" type="application/atom+xml" title="Atom 0.3" href="http://www.firstinternet.co.uk/feed/atom/" />
+        <link rel="pingback" href="http://www.firstinternet.co.uk/xmlrpc.php" />
+
+
+
+        <!-- All other scripts to go below -->
+        <meta name="google-site-verification" content="qV1IIpejcRIz0Z9lqf1YRtzJBaDtUssLpZjZMXEy5MA" />	
+        
+        <script type="text/javascript" src="http://www.firstinternet.co.uk/wp-content/themes/firstinternet/assets/js/banner.js"></script>
+        <script type="text/javascript" src="http://www.firstinternet.co.uk/wp-content/themes/firstinternet/assets/js/moo1.2.js"></script>
+        <script type="text/javascript" src="http://www.firstinternet.co.uk/wp-content/themes/firstinternet/assets/js/jquery.cookie.js"></script>
+        <script type="text/javascript"> 
+            window.addEvent('domready',function() { 
+                //smooooooth scrolling enabled
+                new SmoothScroll({ duration:2000}, window); 
+            });
+        </script>
+
+
+        <!-- PNG fix -->
+        <script src="http://www.firstinternet.co.uk/wp-content/themes/firstinternet/assets/js/DD_belatedPNG_0.0.8a-min.js"></script>
+        <script> DD_belatedPNG.fix('img, .fact'); </script>
+
+        <script type="text/javascript">
+            jQuery(function($) {
+            
+                $('#cookie-link').live('click',function(event){
+                    event.preventDefault();
+                    $('#cookie-policy').slideToggle(); 
+                    return false;
+                });
+            
+            
+                $("a[rel^='lightbox']").slimbox({counterText:"Client {x} of {y}"}, function(el) {
+                    return [el.href, $('.'+el.getAttribute("slimboxcaption")).html()];
+                }, function(el) {
+                    return (this == el) || ((this.rel.length > 8) && (this.rel == el.rel));
+                });
+            });
+        </script>
+	<script type="text/javascript" src="http://lead-123.com/js/8371.js"></script>
+        <link href="http://www.firstinternet.co.uk/wp-content/themes/firstinternet/assets/images/favicon.ico" type="image/x-icon" rel="icon" /><link href="http://www.firstinternet.co.uk/wp-content/themes/firstinternet/assets/images/favicon.ico" type="image/x-icon" rel="shortcut icon" />
+
+    </head> 
+    <body>
+        <div id="white-bg">
+            <a id="top"></a>
+            <div class="container_12 clearfix">
+
+
+
+                <div id="header">
+                    <!-- START of Nav -->
+                    <div class="grid_4 logo alpha">
+                        <a href="http://www.firstinternet.co.uk">
+                            <img src="http://www.firstinternet.co.uk/wp-content/themes/firstinternet/assets/images/logo-2012.png" alt="First Internet" />
+                        </a>
+                        <h1 class="home">Web Design Manchester</h1>
+                    </div>
+                    <div id="cookie_policy_wrapper">
+                        <div id="cookie-policy">
+                            <div id="panel_text_wrapper">
+                                <b><p>Our Cookie Policy</p></b><br />
+                                <p class="cookie_box_text">Our site uses friendly cookies that are stored on your computer. Using this website implies agreement to this. To find out more or to opt out of cookies please view <a href="/cookie-policy/" title="Cookie Policy">our policy</a>.</p>
+                            </div>
+                        </div>
+                        <a id="cookie-link" title="Cookie Policy" href="/cookie-policy">Cookie Policy</a>
+                    </div>
+                    <div class="telephone">
+                        0161 941 5330
+                    </div>
+                    <div class="grid_8 omega">
+                        <div class="nav">
+                            <p>
+                                <a href="http://www.firstinternet.co.uk" class="purple">home</a>
+                                <a href="/about-us" class="green">about us</a>
+                                <a href="#services-section" class="blue">services</a>
+                                <a href="#portfolio-section" class="red">portfolio</a>
+                                <a href="#blog-section" class="orange">news &amp; blog</a>
+                                <a href="#contactus-section" class="brown">contact us</a>
+                            </p>
+                        </div>
+                    </div>
+                    <!-- END of Nav -->
+                </div>
+            </div>
+<div class="container_12 clearfix">
+
+		                  <div id="home_banner_wrapper">
+                                <div id="banner_left_part">
+                                        <a href="/web-design-and-development/">
+                                                <div id="ban_left_1">
+                                                        <p class="banner_big_text">Web</p>
+                                                        <p>Web Design / E-commerce</p>
+                                                        <p>Mobile App Development</p>
+                                                        <p>Micro Sites / E-Brochures</p>
+                                                        <p>Animation & Video</p>
+                                                        <p>Creative E-mails</p>
+                                                </div>
+                                        </a>
+                                        <a href="/graphic-design/">
+                                                <div id="ban_left_2">
+                                                        <p class="banner_big_text">Creative</p>
+                                                        <p>Design for Print</p>
+                                                        <p>Illustration / Packaging</p>
+                                                        <p>Branding / Identity</p>
+                                                        <p>Photography / Film</p>
+                                                        <p>Artworking / Printing</p>
+                                                </div>
+                                        </a>
+                                         <a href="/internet-marketing/">
+                                                <div id="ban_left_3">
+                                                        <p class="banner_big_text">Marketing</p>
+                                                        <p>Search Engine Optimisation</p>
+                                                        <p>Pay-per-click Management</p>
+                                                        <p>Online PR & Social Media</p>
+                                                        <p>Email Marketing</p>
+                                                        <p>Copy Writing</p>
+                                                </div>
+                                         </a>
+                                </div>
+                                <div id="banner_right_part">
+                                        <div id="banner_what_we_do_section">
+                                                <p>What we do:</p>
+                                        </div>
+                                        <a href="/web-design-and-development/">
+                                            <div id="ban_right_1" class="banner_right_section">
+
+                                                    <p>Web</p>
+
+                                            </div>
+                                        </a>
+                                        <a href="/graphic-design/">
+                                            <div id="ban_right_2" class="banner_right_section">
+                                                    <p>Creative</p>
+                                            </div>
+                                        </a>
+                                        <a href="/internet-marketing/">
+                                            <div id="ban_right_3" class="banner_right_section">
+                                                    <p>Marketing</p>
+                                            </div>
+                                         </a>
+                                         <a href="#contactus-section">
+                                             <div id="banner_get_in_touch_section">
+                                                    <p>Get in touch today!</p>
+                                             </div>
+                                         </a>
+                                </div>
+                        </div>
+                    
+                    
+                    
+						<div class="tweet">
+										<p><a href="http://twitter.com/1stInternet">#1stInternet</a>
+					 Reasons to hire a digital marketing agency for Manchester’s SEO investors: Bing’s newly transparent approach t... <a href="http://t.co/a4g0I1VSbV" class="twitter-link">http://t.co/a4g0I1VSbV</a> </p>
+					<br />
+				<p>
+				<div class="fb-like" data-href="http://www.facebook.com/FirstInternet" data-send="false" data-layout="button_count" data-width="150" data-show-faces="false" data-action="recommend"></div>
+
+				<div class="g-plusone" data-size="medium" data-annotation="inline" data-width="250"></div>
+                
+                
+                </p>
+                <script type="text/javascript">
+  window.___gcfg = {lang: 'en-GB'};
+
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+                
+				</div>
+
+		
+		
+
+</div>
+</div>
+
+
+<div id="black-bg">
+<div class="header-torn"></div>
+<div class="container_12 clearfix" id="service-header">
+
+
+
+			<div class="rartop">
+				<a href="http://www.how-do-awards.co.uk/" target="_blank" title="HowDo Awards 2012 Shortlisted"><img src="http://www.firstinternet.co.uk/wp-content/themes/firstinternet/assets/images/sm_HowDo-NomiLogo.png" alt="How do Awards" title="How do Awards"></a>
+				<a href="http://www.recommendedagencies.com/profile/3602/" target="_blank" title="Recommended Agencie"><img src="/wp-content/themes/firstinternet/images/sm_RARLogo-2.png" align="left" alt="Recommended Agency" style="margin-left: -10px;"></a>
+				<a href="https://adwords.google.com/professionals/profile/org?id=011942501854266485056&hl=en_GB" title="Google Adwords Partner" target="_blank"><img src="http://www.firstinternet.co.uk/wp-content/themes/firstinternet/images/sm_google_adwords_partner.png" title="Google AdWords Certified Partner" alt="Google AdWords Certified Partner" /></a>
+	            <img src="http://www.firstinternet.co.uk/wp-content/themes/firstinternet/images/sm_iso_registered.png"  title="ISO 9001 registered firm" alt="ISO 9001 registered firm"/>			
+	            <a href="http://www.go-on-manchester.com/" target="_blank"><img src="http://www.firstinternet.co.uk/wp-content/themes/firstinternet/images/go_on_logo.png"  title="Go On Manchester" alt="Go On Manchester"/></a>	
+		</div>
+
+						<div class="icons-set3"></div>
+			<div class="icons-set4"></div>
+
+			<div class="grid_12 alpha omega">
+				<a id="services-section"></a>
+				<h2>services</h2>
+
+				<section class="arrow">
+  					<span></span>
+  					<span></span>
+  					<span></span>
+  					<span></span>
+  					<strong><a href="#top"><img src="http://www.firstinternet.co.uk/wp-content/themes/firstinternet/assets/images/top.png" alt="" />
+  					</a></strong>
+				</section>
+			</div>
+		</div>
+
+		<div class="container_12 clearfix services" id="services">
+
+			<div class="delicious2"></div>
+
+			<div class="grid_3 service alpha">
+			<a href="http://www.firstinternet.co.uk/web-design-and-development/">
+			<div class="box">
+			<h2>WEB DESIGN &amp; DEVELOPMENT</h2>
+			<p>First Internet combines sparkling creativity with technical expertise to produce striking, easy-to-use websites designed to enhance your business and increase your revenue.</p>
+			<p class="more">Click to find out more...</p>
+			</div>
+			</a>
+			</div>
+			<div class="grid_3 service alpha">
+			<a href="http://www.firstinternet.co.uk/mobile-application-development/">
+			<div class="box">
+			<h2>MOBILE APPLICATION DEVELOPMENT</h2>
+			<p>Accessing the internet using a mobile phone has fast become the norm making it essential for your internet presence to look just as good on a mobile as on a desktop PC.</p>
+			<p class="more">Click to find out more...</p>
+			</div>
+			</a>
+			</div>
+			<div class="grid_3 service alpha">
+			<a href="http://www.firstinternet.co.uk/intranet-and-web-applications/">
+			<div class="box">
+			<h2>INTRANET AND WEB APPLICATIONS</h2>
+			<p>We have the technical expertise to develop efficient back-end solutions that will help keep your website and your business running smoothly.</p>
+			<p class="more">Click to find out more...</p>
+			</div>
+			</a>
+			</div>
+
+			<div class="grid_12 spacer alpha omega">
+			</div>
+			<div class="grid_3 service alpha">
+			<a href="http://www.firstinternet.co.uk/photography-animation-and-video/">
+			<div class="box">
+			<h2>PHOTOGRAPHY, ANIMATION AND VIDEO</h2>
+			<p>Your products or services will leap off the page using original photography, animation or video produced exactly to your brief.</p>
+			<p class="more">Click to find out more...</p>
+			</div>
+			</a>
+			</div>
+			<div class="grid_3 service alpha">
+			<a href="http://www.firstinternet.co.uk/graphic-design/">
+			<div class="box">
+			<h2>GRAPHIC DESIGN</h2>
+			<p>Ensure a professional appearance across all of your marketing collateral, both on and offline, with innovative graphic design from First Internet.</p>
+			<p class="more">Click to find out more...</p>
+			</div>
+			</a>
+			</div>
+			<div class="grid_3 service alpha">
+			<a href="http://www.firstinternet.co.uk/internet-marketing/">
+			<div class="box">
+			<h2>INTERNET MARKETING</h2>
+			<p>Drive traffic to your website and increase your sales and enquiries by speaking to First Internet about our tried and testing internet marketing methods</p>
+			<p class="more">Click to find out more...</p>
+			</div>
+			</a>
+			</div>
+
+
+
+
+		</div>
+
+
+
+
+		<div class="container_12 clearfix" id="portfolio-header">
+			<div class="grid_12 alpha omega">
+				<h2 id="portfolio-section">portfolio</h2>
+				<p>These examples are just a selection of our work.</p>
+
+				<section class="arrow">
+  					<span></span>
+  					<span></span>
+  					<span></span>
+  					<span></span>
+  					<strong><a href="#top" ><img src="http://www.firstinternet.co.uk/wp-content/themes/firstinternet/assets/images/top.png" alt="" />
+  					</a></strong>
+				</section>
+			</div>
+
+
+
+			<div class="grid_12 portfolio alpha">
+
+
+						
+                            <a rel="lightbox[portfolio]" href="http://www.firstinternet.co.uk/wp-content/themes/firstinternet/assets/images/portfolio/AceControls.jpg"
+                               slimboxcaption="portfolio-992">
+                                    
+			<img src="http://www.firstinternet.co.uk/wp-content/themes/firstinternet/assets/images/portfolio/AceControls.png"
+			alt="Ace Controls" /></a>
+                        <div class="portfolio-992" style="display: none;">
+                                    <p>First Internet looks after Ace Controls’ ongoing PPC and SEO campaigns and has achieved first page and first position rankings for a number of vital key phrases such as ‘hydraulic dampers’ and ‘industrial shock absorbers’, delivering traffic and driving enquiries.</p>
+<p>Ace’s website has also been redesigned and developed by First Internet.  The new site has an online CAD library and also hosts a huge database, allowing visitors to enquire about a list of products.</p>
+<p><a title="Ace Controls" href="http://www.acecontrols.co.uk/" target="_blank">View the website »</a>
+<div class="addthis_toolbox addthis_default_style " addthis:url='http://www.firstinternet.co.uk/acecontrols/' addthis:title='Ace Controls '  ><a class="addthis_button_facebook_like" fb:like:layout="button_count"></a><a class="addthis_button_tweet"></a><a class="addthis_button_google_plusone" g:plusone:size="medium"></a><a class="addthis_counter addthis_pill_style"></a></div>
+                        </div>
+
+			
+                            <a rel="lightbox[portfolio]" href="http://www.firstinternet.co.uk/wp-content/themes/firstinternet/assets/images/portfolio/PeterNyssen.jpg"
+                               slimboxcaption="portfolio-1000">
+                                    
+			<img src="http://www.firstinternet.co.uk/wp-content/themes/firstinternet/assets/images/portfolio/PeterNyssen.png"
+			alt="Peter Nyssen" /></a>
+                        <div class="portfolio-1000" style="display: none;">
+                                    <p>Peter Nyssen sells hundreds of varieties of flower bulbs across the world through their website.</p>
+<p>Previously their site acted as a brochure site and customers had to make telephone orders.  An ecommerce solution was in desperate need and First Internet was approached.  A bright and fresh ecommerce site was designed and developed and now takes hundreds of orders each day.</p>
+<p>First Internet promotes the site through PPC and SEO campaigns and has achieved first page rankings for important phrases such as “Galdioli bulbs” and “Dahlia bulbs”.  A quarter of the current revenue comes from PPC alone.</p>
+<p>The next stage of development will be translating the site into several languages for their overseas customers.</p>
+<p><a title="Peter Nyssen" href="http://www.peternyssen.com/" target="_blank">View the website »</a>
+<div class="addthis_toolbox addthis_default_style " addthis:url='http://www.firstinternet.co.uk/peternyssen/' addthis:title='Peter Nyssen '  ><a class="addthis_button_facebook_like" fb:like:layout="button_count"></a><a class="addthis_button_tweet"></a><a class="addthis_button_google_plusone" g:plusone:size="medium"></a><a class="addthis_counter addthis_pill_style"></a></div>
+                        </div>
+
+			
+                            <a rel="lightbox[portfolio]" href="http://www.firstinternet.co.uk/wp-content/themes/firstinternet/assets/images/portfolio/Greenhalghs.jpg"
+                               slimboxcaption="portfolio-995">
+                                    
+			<img src="http://www.firstinternet.co.uk/wp-content/themes/firstinternet/assets/images/portfolio/Greenhalghs.png"
+			alt="Greenhalghs" /></a>
+                        <div class="portfolio-995" style="display: none;">
+                                    <p>Bakery chain Greenhalgh’s has 59 bakeries across the North West.</p>
+<p>Their previous site didn’t provide all the functionality they needed.  First Internet rustled up a new, modern and interactive website for the well established baker, complete with the facility to trade online – an area new to the bakery.</p>
+<p>In addition to the online shop – where customers can design their own bespoke cakes by scanning and submitting photos as well as order buffets &#8211; the site boasts recipes, product details – including nutritional information – and a postcode shop locator.</p>
+<p><a title="Greenhalghs" href="http://www.greenhalghs.com/" target="_blank">View the website »</a>
+<div class="addthis_toolbox addthis_default_style " addthis:url='http://www.firstinternet.co.uk/greenhalghs/' addthis:title='Greenhalghs '  ><a class="addthis_button_facebook_like" fb:like:layout="button_count"></a><a class="addthis_button_tweet"></a><a class="addthis_button_google_plusone" g:plusone:size="medium"></a><a class="addthis_counter addthis_pill_style"></a></div>
+                        </div>
+
+			
+                            <a rel="lightbox[portfolio]" href="http://www.firstinternet.co.uk/wp-content/themes/firstinternet/assets/images/portfolio/nailease.jpg"
+                               slimboxcaption="portfolio-297">
+                                    
+			<img src="http://www.firstinternet.co.uk/wp-content/themes/firstinternet/assets/images/portfolio/nailease.png"
+			alt="Nailease" /></a>
+                        <div class="portfolio-297" style="display: none;">
+                                    <p>Services:</p>
+<ul>
+<li>Web design and development</li>
+<li>Video production</li>
+<li>Email marketing</li>
+<li>SEO</li>
+<li>PPC</li>
+<li>Social media marketing</li>
+</ul>
+<p>Nailease came to us with a brand new beauty concept for young women – nail wraps designed to give users an ‘instant manicure’ without requiring heat or drying time.</p>
+<p>We were tasked with creating an interactive and eye-catching ecommerce website to attract fashionable visitors to purchase these brand new beauty products.</p>
+<p>The site includes a unique ‘add-to-basket’ feature that sees an animation of your chosen nail product fly into the online basket on screen.</p>
+<p>Nailease also commissioned us to produce a promotional and instructional video to be used on their website which we shot, edited and embedded into the site.</p>
+<p>In addition to designing and developing the website we took charge of their online marketing strategy, including SEO, PPC, social media marketing and email marketing.</p>
+<p>Less than a year after launch the site boasts an average of 3,500 visitors per month, steadily increasing revenue, over 400 Facebook Fans and nearly 2,500 Twitter followers.  Nailease also ranks on page one of Google for important key phrases including “nail wraps”, “nail varnish stickers” and “instant manicure”.</p>
+<p><a title="Nailease" href="http://www.nailease.co.uk" target="_blank">Visit the website »</a>
+<div class="addthis_toolbox addthis_default_style " addthis:url='http://www.firstinternet.co.uk/nailease/' addthis:title='Nailease '  ><a class="addthis_button_facebook_like" fb:like:layout="button_count"></a><a class="addthis_button_tweet"></a><a class="addthis_button_google_plusone" g:plusone:size="medium"></a><a class="addthis_counter addthis_pill_style"></a></div>
+                        </div>
+
+			
+                            <a rel="lightbox[portfolio]" href="http://www.firstinternet.co.uk/wp-content/themes/firstinternet/assets/images/portfolio/creamline.jpg"
+                               slimboxcaption="portfolio-286">
+                                    
+			<img src="http://www.firstinternet.co.uk/wp-content/themes/firstinternet/assets/images/portfolio/creamline.png"
+			alt="Creamline Dairies" /></a>
+                        <div class="portfolio-286" style="display: none;">
+                                    <p><a href="http://www.creamline.co.uk" target="_blank">Creamline Dairies</a> was founded in 1945 and initially supplied milk and supplies to businesses in Trafford Park and Worsley.  Since then Creamline developed into a very successful doorstep delivery company and is now one of the leading independent dairy companies in the UK.</p>
+<p>We were approached to build a website that would allow customers to register for an online account and handle their orders online.</p>
+<p>The site will built allows customers to set their weekly orders online and make any one off amends up to 9PM the day before so there orders would be on the doorstep the next morning.  The website had to integrate with a new office system they were having developed and needed to automate payments on a weekly basis by repeat credit card transactions and direct debits.</p>
+<p>The website now acts as an interface between the customer and Creamline, allowing registered users to view what is and has been delivered that week, their account balances and payments and contact forms to get in touch with their local depot.</p>
+<p><a href="http://www.creamline.co.uk" target="_blank">Visit the website &raquo;</a>
+<div class="addthis_toolbox addthis_default_style " addthis:url='http://www.firstinternet.co.uk/creamline/' addthis:title='Creamline Dairies '  ><a class="addthis_button_facebook_like" fb:like:layout="button_count"></a><a class="addthis_button_tweet"></a><a class="addthis_button_google_plusone" g:plusone:size="medium"></a><a class="addthis_counter addthis_pill_style"></a></div>
+                        </div>
+
+			
+                            <a rel="lightbox[portfolio]" href="http://www.firstinternet.co.uk/wp-content/themes/firstinternet/assets/images/portfolio/BrunelFranklin.jpg"
+                               slimboxcaption="portfolio-998">
+                                    
+			<img src="http://www.firstinternet.co.uk/wp-content/themes/firstinternet/assets/images/portfolio/BrunelFranklin.png"
+			alt="Brunel Franklin" /></a>
+                        <div class="portfolio-998" style="display: none;">
+                                    <p>Brunel Franklin specialise in helping people win compensation whenever they have been mis-sold a financial product.  First Internet provided Brunel Franklin with regular updates to their old website.  We then recommended the site was redeveloped to make it easier for Brunel to update the site themselves.</p>
+<p>The new site has several interactive features such as request a callback form, online application forms and live chat.  The site is built on a content management system (CMS) unlike their previous site, allowing them to update the site as often as they like. The CMS features a form builder which allows Brunel to create their own online forms.</p>
+<p><a title="Brunel Franklin" href="http://www.brunelfranklin.com/" target="_blank">View the website »</a>
+<div class="addthis_toolbox addthis_default_style " addthis:url='http://www.firstinternet.co.uk/brunelfranklin/' addthis:title='Brunel Franklin '  ><a class="addthis_button_facebook_like" fb:like:layout="button_count"></a><a class="addthis_button_tweet"></a><a class="addthis_button_google_plusone" g:plusone:size="medium"></a><a class="addthis_counter addthis_pill_style"></a></div>
+                        </div>
+
+			
+                            <a rel="lightbox[portfolio]" href="http://www.firstinternet.co.uk/wp-content/themes/firstinternet/assets/images/portfolio/ChrisBennett.jpg"
+                               slimboxcaption="portfolio-1493">
+                                    
+			<img src="http://www.firstinternet.co.uk/wp-content/themes/firstinternet/assets/images/portfolio/ChrisBennett.png"
+			alt="Chris Bennett" /></a>
+                        <div class="portfolio-1493" style="display: none;">
+                                    <p>Services:</p>
+<ul>
+<li>Web design and      development</li>
+<li>SEO</li>
+</ul>
+<p>Chris Bennett Heavy Haulage Ltd specialises in general and heavy haulage and has been in operation since 1976.</p>
+<p>Chris Bennett approached First Internet following a recommendation from an existing client to redesign and redevelop their website with the aim of increasing enquiries.</p>
+<p>The website was designed to be striking in design and clearly display the services and vehicles supplied by Chris Bennett.  The whole site centres on innovative and quirky design to appeal to its visitors.</p>
+<p>Following launch, First Internet was asked to look after the ongoing search engine optimisation of the website to help achieve attract enquiries.  Since its launch at the beginning of 2012, Chris Bennett has already achieved first page Google rankings for a number of important key phrases including “crane load”, “freight companies”, “heavy haulage” and “wide loads”.
+<div class="addthis_toolbox addthis_default_style " addthis:url='http://www.firstinternet.co.uk/chrisbennett/' addthis:title='Chris Bennett '  ><a class="addthis_button_facebook_like" fb:like:layout="button_count"></a><a class="addthis_button_tweet"></a><a class="addthis_button_google_plusone" g:plusone:size="medium"></a><a class="addthis_counter addthis_pill_style"></a></div>
+                        </div>
+
+			
+                            <a rel="lightbox[portfolio]" href="http://www.firstinternet.co.uk/wp-content/themes/firstinternet/assets/images/portfolio/simplicity.jpg"
+                               slimboxcaption="portfolio-1496">
+                                    
+			<img src="http://www.firstinternet.co.uk/wp-content/themes/firstinternet/assets/images/portfolio/simplicity.png"
+			alt="Simplicity New Look" /></a>
+                        <div class="portfolio-1496" style="display: none;">
+                                    <p><a href="http://www.simplicitynewlook.com/" target="_blank">Simplicity Pattern Co. Inc.</a> is a worldwide company that designs, produces, markets and distributes sewing patterns for consumers that practice and enjoy home sewing activities.</p>
+<p>&nbsp;</p>
+<p>Their UK website, simplicitynewlook.com, had suffered severe functionality issues and was not delivering acceptable revenue.  First Internet was tasked with a website redesign, development and online promotion using SEO, PPC, social media marketing and email marketing.</p>
+<p>&nbsp;</p>
+<p>The new Simplicity website operates across a number of currencies and distributes products worldwide. The website launched in June 2012 and in just three months the site’s statistics, and revenue, had improved dramatically:</p>
+<ul>
+<li>Visits have increased by over 20%.</li>
+<li>From July to August revenue on the site increased by over 100%.</li>
+<li>In August the website made revenue equivalent to 50% of the revenue for the whole of the previous year.</li>
+<li>Average site visit duration rose by over 80%.</li>
+<li>Mobile purchases now account for 15% of all transactions.</li>
+<li>Following only two months of SEO activity, key phrases are ranking on page one and delivering more traffic to the site:
+<ul>
+<li>“Sewing patterns” delivered 64% more traffic.</li>
+<li>“Dress patterns” delivered 270% more traffic.</li>
+</ul>
+</li>
+<li>In August two email campaigns were sent out which led to over 3,000 visits and nearly £2,000 in revenue.</li>
+<li>Social media activity gave the site a 143% lift in traffic in August, directly related to social media sharing.</li>
+</ul>
+<p><a href="http://www.simplicitynewlook.com/" target="_blank">Visit the site »</a>
+<div class="addthis_toolbox addthis_default_style " addthis:url='http://www.firstinternet.co.uk/timbermat/' addthis:title='Simplicity New Look '  ><a class="addthis_button_facebook_like" fb:like:layout="button_count"></a><a class="addthis_button_tweet"></a><a class="addthis_button_google_plusone" g:plusone:size="medium"></a><a class="addthis_counter addthis_pill_style"></a></div>
+                        </div>
+
+			
+                            <a rel="lightbox[portfolio]" href="http://www.firstinternet.co.uk/wp-content/themes/firstinternet/assets/images/portfolio/genesis.jpg"
+                               slimboxcaption="portfolio-1010">
+                                    
+			<img src="http://www.firstinternet.co.uk/wp-content/themes/firstinternet/assets/images/portfolio/Genesis.png"
+			alt="Genesis" /></a>
+                        <div class="portfolio-1010" style="display: none;">
+                                    <p>The Genesis Breast Cancer Prevention Appeal is the only charity in the UK dedicated entirely to the prevention of breast cancer.</p>
+<p>The Genesis Appeal needed to upgrade their website to maximise the opportunities for raising awareness and funds.</p>
+<p>First Internet launched the million miles section of the Genesis website. The million miles section is dedicated to events, downloads, merchandise, and fundraising directly relating to the million miles campaign. Throughout the website users are able to make a donation, leave a gift, volunteer and sign up to events run by Genesis as well as events ran by external organisers. There is an e-commerce section of the website selling Genesis merchandise and a calendar which highlights genesis events and million miles events. The website is also integrated with third party ebook software which displays their print brochures dynamically on the site.</p>
+<p>As well as ongoing technical support and website tweaks, First Internet also provides Genesis with email marketing services.</p>
+<p><a title="Genesis" href="http://www.genesisuk.org/" target="_blank">View the website »</a>
+<div class="addthis_toolbox addthis_default_style " addthis:url='http://www.firstinternet.co.uk/genesis/' addthis:title='Genesis '  ><a class="addthis_button_facebook_like" fb:like:layout="button_count"></a><a class="addthis_button_tweet"></a><a class="addthis_button_google_plusone" g:plusone:size="medium"></a><a class="addthis_counter addthis_pill_style"></a></div>
+                        </div>
+
+			
+
+						</div>
+
+
+			<div class="grid_7 quote alpha">
+
+			<div class="paypal">
+		<a href="http://www.firstinternet.co.uk/web-design-and-development/" target="_parent">
+				<img src="http://www.firstinternet.co.uk/wp-content/themes/firstinternet/assets/images/paypal.png" class="pay" alt="E-Commerce" /></a>
+		</div>
+
+			<!--<a href="http://www.firstinternet.co.uk/testimonials/">-->
+			<p><em>"It has always been said, on several occasions, that my partners and I are delighted, firstly with the professional appearance of the actual site you have created for us, and secondly with the ease wit"....</em></a></p>
+
+<p class="author"><span>Michael Hyman<br />
+Heritage Science Services - </span><a href="http://www.heritagescienceservices.com">heritagescienceservices.com</a></p>			<p class="more"><a href="http://www.firstinternet.co.uk/testimonials/">Click here for more Testimonials</a></p>
+			</div>
+
+			<div class="grid_4 omega">
+			<br />
+			</div>
+
+		</div>
+
+
+	</div>
+</div>
+
+
+<!-- START of footer -->
+<div id="white-ft">
+<div class="footer-torn"></div>
+	<div class="container_12 clearfix" id="blog-header">
+		<div class="grid_12 alpha omega">
+			<a id="blog-section"></a>
+			<h2>news &amp; blog</h2>
+
+			<div id="rss" class="purple">
+			<a href="http://www.firstinternet.co.uk/rss/">
+			<img src="http://www.firstinternet.co.uk/wp-content/themes/firstinternet/assets/images/icon-rss.png" alt="RSS feed" /></a>
+			<section class="arrow">
+  				<span></span>
+  				<span></span>
+  				<span></span>
+  				<span></span>
+  				<strong><a href="#top" ><img src="http://www.firstinternet.co.uk/wp-content/themes/firstinternet/assets/images/top2.png" alt="First Internet home" />
+  				</a></strong>
+			</section>
+			</div>
+
+		</div>
+	</div>
+
+	<div class="container_12 clearfix">
+
+
+
+
+
+
+	<!-- START OF NEWS -->
+					<div class="grid_6 blog">
+		<article>
+
+		<h2><img src="http://www.firstinternet.co.uk/wp-content/themes/firstinternet/assets/images/cats/blog.png" alt="SEO" />
+		<a href="http://www.firstinternet.co.uk/reasons-to-hire-a-digital-marketing-agency-for-manchesters-seo-investors/" rel="bookmark" title="Reasons to hire a digital marketing agency for Manchester&#8217;s SEO investors">
+		Reasons to hire a digital marketing agency for Manchester&#8217;s SEO investors</a></h2>
+                <div class="entry-date entry-home">Friday, April 12th, 2013</div>
+		<p>Bing&#8217;s newly transparent approach to SEO has given more reasons to hire a digital marketing agency for Manchester webmasters and their counterparts around the world. [...]</p>
+
+		</article>
+		</div>
+
+			<div class="grid_6 blog">
+		<article>
+
+		<h2><img src="http://www.firstinternet.co.uk/wp-content/themes/firstinternet/assets/images/cats/blog.png" alt="SEO" />
+		<a href="http://www.firstinternet.co.uk/did-bings-seo-meta-tag-fool-you/" rel="bookmark" title="Did Bing&#8217;s &#8216;SEO meta tag&#8217; fool you?">
+		Did Bing&#8217;s &#8216;SEO meta tag&#8217; fool you?</a></h2>
+                <div class="entry-date entry-home">Friday, April 5th, 2013</div>
+		<p>Microsoft announced a deliberately over-the-top April Fool this year, in the form of an SEO meta tag to dictate your ranking in Bing search results. [...]</p>
+
+		</article>
+		</div>
+
+			<div class="grid_6 blog">
+		<article>
+
+		<h2><img src="http://www.firstinternet.co.uk/wp-content/themes/firstinternet/assets/images/cats/blog.png" alt="Google" />
+		<a href="http://www.firstinternet.co.uk/new-google-opt-out-options-a-bad-call-for-seo/" rel="bookmark" title="New Google opt-out options &#8211; a bad call for SEO?">
+		New Google opt-out options &#8211; a bad call for SEO?</a></h2>
+                <div class="entry-date entry-home">Wednesday, March 27th, 2013</div>
+		<p>Webmasters might want to exercise caution when deciding whether to use a new central opt-out option created by Google, to avoid any undue negative SEO [...]</p>
+
+		</article>
+		</div>
+
+			<div class="grid_6 blog">
+		<article>
+
+		<h2><img src="http://www.firstinternet.co.uk/wp-content/themes/firstinternet/assets/images/cats/blog.png" alt="Social Media" />
+		<a href="http://www.firstinternet.co.uk/replacing-rss-with-social-media-marketing/" rel="bookmark" title="Replacing RSS with social media marketing">
+		Replacing RSS with social media marketing</a></h2>
+                <div class="entry-date entry-home">Thursday, March 21st, 2013</div>
+		<p>If RSS has been an important element in your online marketing mix during the past 7-8 years, it might be time to start looking for [...]</p>
+
+		</article>
+		</div>
+
+			<div class="grid_6 blog">
+		<article>
+
+		<h2><img src="http://www.firstinternet.co.uk/wp-content/themes/firstinternet/assets/images/cats/blog.png" alt="Google" />
+		<a href="http://www.firstinternet.co.uk/google-cheat-sheet-gives-first-timers-seo-tips/" rel="bookmark" title="Google &#8216;cheat sheet&#8217; gives first-timers SEO tips">
+		Google &#8216;cheat sheet&#8217; gives first-timers SEO tips</a></h2>
+                <div class="entry-date entry-home">Friday, March 15th, 2013</div>
+		<p>A newly published &#8216;cheat sheet&#8217; offers first-time bloggers some basic tips on how to ensure content is search-visible, but stops short of detailed SEO guidelines. [...]</p>
+
+		</article>
+		</div>
+
+			<div class="grid_6 blog">
+		<article>
+
+		<h2><img src="http://www.firstinternet.co.uk/wp-content/themes/firstinternet/assets/images/cats/blog.png" alt="PPC" />
+		<a href="http://www.firstinternet.co.uk/location-bid-adjustments-make-adwords-more-powerful-for-manchester-ppc-campaigns/" rel="bookmark" title="Location bid adjustments make AdWords more powerful for Manchester PPC campaigns">
+		Location bid adjustments make AdWords more powerful for Manchester PPC campaigns</a></h2>
+                <div class="entry-date entry-home">Friday, March 8th, 2013</div>
+		<p>Manchester PPC campaigns based on Google&#8217;s AdWords platform just got a little easier to manage, as a post on the official Inside AdWords blog explains. [...]</p>
+
+		</article>
+		</div>
+
+	
+	<!-- Page Nation -->
+
+	
+
+
+
+	<!-- END OF NEWS -->
+
+
+
+	<p class="blog-archs"><a href="http://www.firstinternet.co.uk/news/">more news &raquo;</a></p>
+
+
+	</div>
+
+	<div class="container_12 clearfix" id="contact-header">
+		<div class="grid_12 contact alpha omega">
+			<h2>contact us</h2>
+		</div>
+	</div>
+
+	<div class="container_12 clearfix" id="contacts">
+		<div class="grid_3 contacts alpha">
+			<h2>Client Services</h2>
+			<p>Our client services team are
+			always happy to talk you
+			through any issues you have
+			in regards to your project or
+			hosting. If you have a
+			technical issue, ring the
+			number below and use
+			option <span>#2</span>.</p>
+
+			<h3>Natalie Johnson, <br />Client
+			Services</h3>
+			<p>tel: <strong>0161 941 5330</strong><br />
+			<a href="mailto:client@firstinternet.co.uk">
+			clients@firstinternet.co.uk</a></p>
+			<a id="contactus-section"></a>
+
+		</div>
+
+		<div class="grid_3 contacts ">
+			<h2>New Business</h2>
+			<p>If you want to know about
+			working with First Internet
+			for the first time please feel
+			free to <a href="/quote-me" title="Quote me">contact us</a> at any
+			time using the contact
+			details below or why not
+                        <a href="/quote-me" title="Request a quote">request a quote.</a></p>
+			<div class="spacer2"></div>
+			<h3>Stephen Alexander, <br />New Business</h3>
+			<p>tel: <strong>0161 941 5330</strong><br />
+			<a href="mailto:quoteme@firstinternet.co.uk">
+			quoteme@firstinternet.co.uk</a></p>
+
+		</div>
+
+		<div class="grid_5 map omega">
+
+
+			<iframe width="410" height="260" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.co.uk/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=First+Internet+Marketing,+Ashley+Road,+Altrincham&amp;aq=0&amp;sll=53.800651,-4.064941&amp;sspn=15.111406,36.386719&amp;ie=UTF8&amp;hq=First+Internet+Marketing,&amp;hnear=Ashley+Rd,+Altrincham,+United+Kingdom&amp;ll=53.378531,-2.349039&amp;spn=0.02767,0.006295&amp;output=embed"></iframe>
+
+
+
+			<p>First Internet,<br />
+			116a Ashley Road,<br />
+			Hale, Cheshire,<br />
+			<a href="http://maps.google.co.uk/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=First+Internet+Marketing,+Ashley+Road,+Altrincham&amp;aq=0&amp;sll=53.800651,-4.064941&amp;sspn=15.111406,36.386719&amp;ie=UTF8&amp;hq=First+Internet+Marketing,&amp;hnear=Ashley+Rd,+Altrincham,+United+Kingdom&amp;ll=53.378531,-2.349039&amp;spn=0.02767,0.006295" target="_blank">
+			<span>WA14 2UN</span></a></p>
+
+			<div class="social">
+            <a href="http://www.linkedin.com/in/firstinternet" target="_blank">
+				<img src="http://www.firstinternet.co.uk/wp-content/themes/firstinternet/assets/images/LinkedIn.png" class="LinkedIn" alt="Linkedin" /></a>
+				<a href="http://www.facebook.com/pages/First-Internet-Web-Design-in-Manchester/86116141754" target="_blank"><img src="http://www.firstinternet.co.uk/wp-content/themes/firstinternet/assets/images/icon-facebook.png" alt="Like Us!" /></a>
+				<a href="http://twitter.com/1stInternet" target="_blank">
+				<img src="http://www.firstinternet.co.uk/wp-content/themes/firstinternet/assets/images/icon-twitter.png" alt="Follow Us!" /></a>
+                <a href="https://plus.google.com/105296645163814820819/posts" target="_blank">
+				<img src="http://www.firstinternet.co.uk/wp-content/themes/firstinternet/assets/images/Google+_icon.png" class="googleplus" alt="Google Plus" /></a>
+
+				<a href="http://www.deliciousdesign.co.uk" target="_blank">
+				<img src="http://www.firstinternet.co.uk/wp-content/themes/firstinternet/assets/images/delicious.png" class="del" alt="Delicious" /></a>
+                
+			</div>
+        	        <a href="http://www.ukmarketingagencies.co.uk" target="_blank"><img src="http://www.firstinternet.co.uk/wp-content/themes/firstinternet/images/uk_marketing_agency.png" alt="UK marketing agency" style="margin-top: 0; margin-left: -8px; border: 0;" align="right"  /></a>
+	                <img src="http://www.firstinternet.co.uk/wp-content/themes/firstinternet/images/sm_iso_registered.png" alt="ISO 9001 registered firm"
+style="margin-top: -26px" align="right" />
+			<img src="http://www.firstinternet.co.uk/wp-content/themes/firstinternet/images/sm_google_adwords_partner.png" alt="Google AdWords certified partner"
+style="margin-left: -10px; clear:both;" align="right" />
+                        <a href="http://www.go-on-manchester.com/" target="_blank"><img src="http://www.firstinternet.co.uk/wp-content/themes/firstinternet/images/go_on_logo.png" align="right" alt="Go On Manchester" style="margin-right:10px;" /></a>
+                        <a href="http://www.recommendedagencies.com/profile/3602/" target="_blank"><img src="http://www.firstinternet.co.uk/wp-content/themes/firstinternet/images/sm_RARLogo-2.png" align="right" alt="Recommended Agency"></a>
+		</div>
+            
+		<div class="grid_6 contacts alpha omega support">
+                    <p>If you’re a First Internet customer and need help with your website or emails, or have any other queries regarding your hosting, <a href="http://www.firstinternet.co.uk/support" title="Support">get in touch</a> with us.</p>
+                </div>
+		<div class="grid_6 contacts alpha omega">
+		<br />
+			<h2>Career Opportunities</h2>
+			<p>Are you interested in joining First Internet? <a href="http://www.firstinternet.co.uk/careers/">Find out more...</a></p>
+		<br />
+		<br />
+		</div>
+
+	</div>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-486410-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+<script type="text/javascript">if (typeof(addthis_share) == "undefined"){ addthis_share = {"url_transforms":{"shorten":{"twitter":"bitly"}},"shorteners":{"bitly":{"login":"firstinternet","apiKey":"R_f4d0c77d5ff9dfebcdd9f1ec4f894dca"}}};}
+
+var addthis_config = {"data_track_clickback":true,"data_track_addressbar":false,"data_track_textcopy":false};
+var addthis_product = 'wpp-265';
+</script><script type="text/javascript" src="//s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4fc4b212341a7401"></script><script type="text/javascript"></script><!--wp_footer-->
+
+
+
+		
+	<div class="container_12 clearfix" id="footer">
+		<div class="grid_12 footer purple alpha omega">
+		
+		<footer>
+		<section class="arrow"> 
+  				<span></span> 
+  				<span></span> 
+  				<span></span> 
+  				<span></span> 
+  				<strong><a href="#top" ><img src="http://www.firstinternet.co.uk/wp-content/themes/firstinternet/assets/images/top2.png" alt="" />
+  				</a></strong> 
+		</section>
+				
+			<div class="nav">
+				<p>
+				<a href="http://www.firstinternet.co.uk" class="purple">home</a>
+				<a href="/index.php/about-us" class="green">about us</a>
+				<a href="#services-section" class="blue">services</a>
+				<a href="#portfolio-section" class="red">portfolio</a>
+				<a href="#blog-section" class="orange">news &amp; blog</a>
+				<a href="#top" class="brown">back to top ^</a>
+				</p>
+			</div>
+		</footer>	
+		</div>
+	</div>
+</div>
+
+
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_GB/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+</body>
+</html>

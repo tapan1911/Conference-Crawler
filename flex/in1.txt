@@ -1,0 +1,655 @@
+------------https://www.ieee.org/portal/pages/iportals/conferences/callforpapers/index.html-----------
+
+
+
+
+        
+
+    
+    <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+    <html>
+        <head>
+            
+            <title>
+				IEEE - Browse Call for Papers Deadlines</title><meta name="keywords" content="
+          &nbsp;conferences, meetings, paper, submission, deadlines,
+            authors, call 
+    "><meta name="description" content="
+         &nbsp;Listing of  Calls for Papers deadlines
+            for&nbsp;IEEE-sponsored  conferences. 
+    "><meta HTTP-EQUIV="Content-Language" CONTENT="en-US"><meta HTTP-EQUIV="Content-Type" content="text/html; charset=UTF-8">
+
+            
+        
+            <!-- begin header include -->
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+<!-- meta attributes for WebTrends tracking start -->
+
+<!-- meta attributes for WebTrends tracking end -->
+
+<script language="JavaScript" src="/portal/cms_docs/iportals/global/js/addevent.js" type="text/javascript"></script>
+<script language="JavaScript" src="/portal/cms_docs/iportals/global/js/cookies.js" type="text/javascript"></script>
+<script language="JavaScript" src="/portal/cms_docs/iportals/global/js/custom.js" type="text/javascript"></script>
+
+<link href="/portal/cms_docs/iportals/global/css/ieeestyles_1.css" rel="stylesheet" type="text/css" title="size_1"/>
+<link href="/portal/cms_docs/iportals/global/css/ieeestyles_2.css" rel="alternate stylesheet" type="text/css" title="size_2"/>
+<link href="/portal/cms_docs/iportals/global/css/ieeestyles_3.css" rel="alternate stylesheet" type="text/css" title="size_3"/>
+
+<!-- styleswitcher -->
+<script language="JavaScript" src="/portal/cms_docs/iportals/global/js/styleswitcher.js" type="text/javascript"></script>
+<!-- end styleswitcher -->
+
+<script language=JavaScript src="/portal/cms_docs/iportals/global/js/ieeestyles.js" type="text/javascript"></script>
+<!--
+	 Milonic DHTML Website Navigation Menu Version 5.0+
+	 Copyright 2005 (c) Milonic Solutions Limited (UK). All Rights Reserved.
+	 Please visit http://www.milonic.com/ for more information.
+-->
+
+<script type="text/javascript" src="/portal/cms_docs/iportals/global/js/milonic_src.js"></script>	
+<script	type="text/javascript">
+if(ns4)_d.write("<scr"+"ipt type=text/javascript src=/portal/cms_docs/iportals/global/js/mmenuns4.js><\/scr"+"ipt>");		
+  else _d.write("<scr"+"ipt type=text/javascript src=/portal/cms_docs/iportals/global/js/mmenudom.js><\/scr"+"ipt>"); 
+</script>
+<script type="text/javascript" src="/portal/cms_docs/iportals/global/js/menu_data.js"></script>	
+
+<script type="text/javascript" src="/portal/cms_docs/iportals/global/js/popup.js"></script>
+
+<!-- end header include -->
+        </head>
+        <body leftmargin="0" rightmargin="0" topmargin="0" marginheight="0" marginwidth="0">
+            <!-- Begin Outer Wrapper -->
+            <table width="882" border="0" align="center" cellpadding="0" cellspacing="0">
+                <tr>
+                    <td colspan="3"><img src="/portal/cms_docs_iportals/iportals/global/images/ieee_topbar.gif" alt="" width="882" height="53"/></td>
+                </tr>
+                <tr>
+                    <td width="13" background="/portal/cms_docs_iportals/iportals/global/images/ieee_leftbrdr.gif"><img src="/portal/cms_docs_iportals/iportals/global/images/spacer.gif" width="13" height="1" alt="" /></td>
+                    <td width="856"><!--Content table starts here -->
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <tr>
+                            <td width="100%" background="/portal/cms_docs_iportals/iportals/global/images/ieee_header_bg.gif"><!-- Begin Header -->
+                                
+<!-- smartsource code -->
+<SCRIPT LANGUAGE="JavaScript" SRC="/portal/cms_docs_iportals/iportals/global/js/iportals_dcs_tag.js"></SCRIPT>
+<NOSCRIPT><IMG BORDER="0" NAME="DCSIMG" WIDTH="1" alt="" HEIGHT="1" SRC="http://scout.ieee.org/dcs4b71nuo0lhbjb1tbttaym0_5x2m/njs.gif?dcsuri=/portal/site/iportals/template.PAGE/menuitem.cdf519eddb1e8acb0dfe92105bac26c8/&WT.js=No"></NOSCRIPT>
+<!-- end smartsource code -->
+<!-- Begin header -->
+<a id="top" name="top"></a>
+<div id="iportal-header">
+    <div id="iportal-header-top">
+        <div id="iportal-header-logo">
+            <a href="/portal/site/iportals?WT.mc_id=hplogo_upleft"   class="toputility"><img src="/portal/cms_docs_iportals/iportals/global/images/ieee_logo_125.gif" alt="IEEE" width="125" height="74" border="0"/></a>
+        </div>
+        <div id="iportal-header-tools">
+            <div id="iportal-header-topnav">
+                <a href="/portal/site/iportals?WT.mc_id=tu_hp" title="IEEE Home">Home</a> | <a href="https://sbwsweb.ieee.org/ecustomercme_enu/start.swe?SWECmd=GotoView&SWEView=Catalog+View+(eSales)_Main_JournalMags_IEEE&src=0&mem_type=Customer&Join=n&HideNew=N&?WT.mc_id=tu_shop" onclick="trackEvent('tu_shop_oc')"  title="IEEE online product catalog">Shop</a> | <a href="/web/membership/join/join.html?WT.mc_id=tu_join" title="Student and professional membership applications">Join</a> | <a href="/web/membership/myieee.html?WT.mc_id=tu_myieee" title="Member login for premium content &amp; benefits">myIEEE</a> | <a href="/web/aboutus/help/contact/index.html?WT.mc_id=tu_contactus" title="IEEE contact information">Contact</a> | <a href="/web/services/general/sitemap.html?WT.mc_id=tu_smap" title="IEEE.org sitemap">Sitemap</a> | <a href="http://ieeexplore.ieee.org" onclick="trackEvent('tu_xpl_oc')" title="IEEE Xplore&reg; digital library">IEEE <em>Xplore</em></a>
+            </div>
+            <div id="iportal-header-intro">
+                The world's leading professional association<br>
+                for the advancement of technology
+            </div>
+            <div id="iportal-header-search">
+                <form name="siteSearch" id="cse-search-box" action="/web/web/search/results.html?WT.mc_id=hpsrch_google " onSubmit="return siteCheck(event);">
+                    <!-- Google CSE -->
+                    <input type="hidden" name="cx" value="006539740418318249752:f2h38l7gvis" />
+                    <input type="hidden" name="cof" value="FORID:11" />
+                    <input name="q" type="hidden" value="">
+                    <!-- /Google CSE -->
+                    <input name="qp" type="hidden" value="">
+                    <input name="ie" type="hidden" value="UTF-8">
+                    <input name="oe" type="hidden" value="UTF-8">
+                    <div>
+                        <input maxlength="2047" name="qt" type="textfield"  onkeydown="trackEnterKey(event)" size="20">&nbsp;<input name="sa" onmousedown="trackEvent('hpsrch_google_oc')" type="image" src="/portal/cms_docs_iportals/iportals/global/images/ieee_search_btn.gif" alt="Search IEEE" border="0" width="71" height="23" align="absmiddle"/>
+                    </div>
+                    
+                </form>
+                
+            </div>
+        </div>
+    </div>
+    <div id="iportal-header-main-nav" align="center">
+        <script type="text/javascript">
+            <!--
+            with(milonic=new menuname("Main Menu")){
+            alwaysvisible=1;
+            //left=10;
+            position="relative";
+            orientation="horizontal";
+            style=AllImagesStyle;
+            //top=10; 
+            aI("title=About Us;image=/portal/cms_docs_iportals/iportals/global/images/nav_about_off.gif;overimage=/portal/cms_docs_iportals/iportals/global/images/nav_about_over.gif;pageimage=/portal/cms_docs_iportals/iportals/global/images/nav_about_on.gif;pagematch=/aboutus;url=javascript:trackAndLaunch('hpnav_abt_oc','/web/aboutus/home/index.html');showmenu=aboutus;");
+            aI("title=Membership;image=/portal/cms_docs_iportals/iportals/global/images/nav_membership_off.gif;overimage=/portal/cms_docs_iportals/iportals/global/images/nav_membership_over.gif;pageimage=/portal/cms_docs_iportals/iportals/global/images/nav_membership_on.gif;pagematch=/membership/;url=javascript:trackAndLaunch('hpnav_mem_oc','/web/membership/home/index.html');showmenu=membership;");
+            aI("title=Publications;image=/portal/cms_docs_iportals/iportals/global/images/nav_publications_off.gif;overimage=/portal/cms_docs_iportals/iportals/global/images/nav_publications_over.gif;pageimage=/portal/cms_docs_iportals/iportals/global/images/nav_publications_on.gif;showmenu=publications;pagematch=/publications;url=javascript:trackAndLaunch('hpnav_pub_oc','/web/publications/home/index.html');");
+            aI("title=Conferences;image=/portal/cms_docs_iportals/iportals/global/images/nav_conferences_off.gif;overimage=/portal/cms_docs_iportals/iportals/global/images/nav_conferences_over.gif;pageimage=/portal/cms_docs_iportals/iportals/global/images/nav_conferences_on.gif;showmenu=conferences;pagematch=/conferences;url=javascript:trackAndLaunch('hpnav_conf_oc','/web/conferences/home/index.html');");
+            aI("title=Standards;image=/portal/cms_docs_iportals/iportals/global/images/nav_standards_off.gif;overimage=/portal/cms_docs_iportals/iportals/global/images/nav_standards_over.gif;pageimage=/portal/cms_docs_iportals/iportals/global/images/nav_standards_on.gif;url=javascript:trackAndLaunch('hpnav_std_oc','/web/standards/home/index.html');showmenu=standards;");
+            aI("title=Careers;image=/portal/cms_docs_iportals/iportals/global/images/nav_careers_off.gif;overimage=/portal/cms_docs_iportals/iportals/global/images/nav_careers_over.gif;pageimage=/portal/cms_docs_iportals/iportals/global/images/nav_careers_on.gif;pagematch=/careers;url=javascript:trackAndLaunch('hpnav_car_oc','/web/careers/home/index.html');showmenu=careers");
+            aI("title=Education;image=/portal/cms_docs_iportals/iportals/global/images/nav_education_off.gif;overimage=/portal/cms_docs_iportals/iportals/global/images/nav_education_over.gif;pageimage=/portal/cms_docs_iportals/iportals/global/images/nav_education_on.gif;pagematch=/education;url=javascript:trackAndLaunch('hpnav_edu_oc','/web/education/home/index.html');showmenu=education;");
+            aI("title=Volunteers;image=/portal/cms_docs_iportals/iportals/global/images/nav_volunteers_off.gif;overimage=/portal/cms_docs_iportals/iportals/global/images/nav_volunteers_over.gif;pageimage=/portal/cms_docs_iportals/iportals/global/images/nav_volunteers_on.gif;showmenu=volunteers;pagematch=/volunteers;url=javascript:trackAndLaunch('hpnav_vol_oc','/web/volunteers/home/index.html');");
+            aI("title=Societies;image=/portal/cms_docs_iportals/iportals/global/images/nav_societies_off.gif;overimage=/portal/cms_docs_iportals/iportals/global/images/nav_societies_over.gif;pageimage=/portal/cms_docs_iportals/iportals/global/images/nav_societies_on.gif;pagematch=/societies;url=javascript:trackAndLaunch('hpnav_soc_oc','/web/societies/home/index.html');showmenu=societies;");
+            aI("title=Geographic Activities;image=/portal/cms_docs_iportals/iportals/global/images/nav_geographic_off.gif;overimage=/portal/cms_docs_iportals/iportals/global/images/nav_geographic_over.gif;pageimage=/portal/cms_docs_iportals/iportals/global/images/nav_geographic_on.gif;showmenu=geo;pagematch=/geo_activities;url=javascript:trackAndLaunch('hpnav_ga_oc','/web/geo_activities/home/index.html');");
+            }
+            drawMenus();
+            // -->
+        </script>
+        <script language="JavaScript1.2" type="text/javascript" src="/portal/cms_docs/iportals/global/js/preloadmenuimages.js"></script>
+        <script language="JavaScript1.2" type="text/javascript" src="/portal/cms_docs/iportals/global/js/openmenusbyurl.js"></script>
+        <!--<script language="JavaScript1.2" type="text/javascript" src="/portal/cms_docs/iportals/global/js/mmpagehighlighter.js"></script>-->
+        <noscript>
+            <div align="center"><a href="/web/aboutus/home/index.html"><img src="/portal/cms_docs_iportals/iportals/global/images/nav_about_off.gif" alt="About Us" name="about" width="70" height="29" border="0" id="about" /></a><a href="/web/membership/home/index.html"><img src="/portal/cms_docs_iportals/iportals/global/images/nav_membership_off.gif" alt="Membership" name="mem" width="87" height="29" border="0" id="mem" /></a><a href="/web/publications/home/index.html"><img src="/portal/cms_docs_iportals/iportals/global/images/nav_publications_off.gif" alt="Publications" name="public" width="88" height="29" border="0" id="public" /></a><a href="/web/conferences/home/index.html"><img src="/portal/cms_docs_iportals/iportals/global/images/nav_conferences_off.gif" alt="Conferences" name="conf" width="87" height="29" border="0" id="conf" /></a><a href="/web/standards/home/index.html"><img src="/portal/cms_docs_iportals/iportals/global/images/nav_standards_off.gif" alt="Standards" name="stand" width="75" height="29" border="0" id="stand" /></a><a href="/web/careers/home/index.html"><img src="/portal/cms_docs_iportals/iportals/global/images/nav_careers_off.gif" alt="Careers" name="career" width="58" height="29" border="0" id="career" /></a><a href="/web/education/home/index.html"><img src="/portal/cms_docs_iportals/iportals/global/images/nav_education_off.gif" alt="Education" name="edu" width="73" height="29" border="0" id="edu" /></a><a href="/web/volunteers/home/index.html"><img src="/portal/cms_docs_iportals/iportals/global/images/nav_volunteers_off.gif" alt="Volunteers" name="vol" width="79" height="29" border="0" id="vol" /></a><a href="/web/societies/home/index.html"><img src="/portal/cms_docs_iportals/iportals/global/images/nav_societies_off.gif" alt="Societies" name="societies" width="67" height="29" border="0" id="societies" /></a><a href="/web/geo_activities/home/index.html"><img src="/portal/cms_docs_iportals/iportals/global/images/nav_geographic_off.gif" alt="Geographic Activities" name="geo" width="146" height="29" border="0" id="geo" /></a></div>          
+        </noscript>
+    </div>
+    <div id="iportal-header-text-sizer">
+	<div class="whitetext">Text size <span class="textarrow"> &raquo;</span><a href="javascript:setActiveStyleSheet('size_1');" onclick="trackEvent('hptxtsize_1_oc')" class="whitetext" alt="View with standard text size">A</a> <span class="textsizeMed">&nbsp;<a href="javascript:setActiveStyleSheet('size_2');" onclick="trackEvent('hptxtsize_2_oc')" class="textsizeMed" alt="View with large text size">A</a></span> &nbsp;<a href="javascript:setActiveStyleSheet('size_3');" onclick="trackEvent('hptxtsize_3_oc')" class="textsizeLrg" alt="View with largest text size">A</a>&nbsp;&nbsp;</div>
+    </div>
+</div>
+<!-- End header -->
+
+                                <!-- End pageContent -->
+                            </td>
+                        </tr>
+                        <tr>
+                            <td bgcolor="#FFFFFF"><!-- Begin pageContent -->
+                                
+
+
+
+
+
+    
+    
+
+    
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+<epi-html:portalHttpRoot/>
+
+
+
+	<table border="0" cellspacing="10" cellpadding="0"  height="240">
+
+
+
+    
+  <tr>
+   
+
+    <td width=680 valign="top" align="left">
+  
+
+      <table cellspacing="0" cellpadding="0" border="0" width="100%">
+        <tr>
+          <td>
+
+   
+
+		
+			    
+    
+        
+	
+	  
+	    
+
+
+
+
+<div id="breadcrumbs">
+<a href="/portal/site/iportals">IEEE Home</a>&nbsp;<span class="snav"><span class="sectionHeaders">&raquo;</span></span> &nbsp;<a href="/web/conferences/home/index.html">Conferences</a>&nbsp;<span class="snav"><span class="sectionHeaders">&raquo;</span></span> &nbsp;<a href="/web/conferences/callforpapers/index.html" class="headNavBlue">Call for Papers</a>
+</div><a name="content"></a>
+
+
+	  
+	  
+	
+
+
+	
+    
+
+	  <br />
+
+    
+        
+	
+	  
+	    
+
+
+
+
+<div xmlns:fo="http://www.w3.org/1999/XSL/Format" id="mainContent">
+<h1>Browse Call for Papers Deadlines</h1>
+<div id="introContent"></div>
+<div id="moduleWrapper" style="position:relative; top: -10px;">
+<h2></h2>
+<div class="moduleWrapperNoScroll">
+<table width="585" border="1" cellpadding="0" cellspacing="0">
+<tr>
+<td width="585"><span class="moduleText">
+<table width="585" border="0" cellpadding="5" cellspacing="5">
+<tr>
+<td width="585">
+<form method="get" action="/web/conferences/callforpapers/index.html">
+<b>Within the next:</b>
+<BR>
+<input type="hidden" name="var1" value="cfp_filter_date"><input type="hidden" name="loc" value="1$10$1"><select name="var2"><option vaule="none">Quick filter by submission deadline date range</option><option value="2592000000">1 Month</option><option value="7776000000">3 Months</option><option value="15552000000">6 Months</option><option value="31536000000">1 year</option></select>
+ 			<input type="image" alt="submit" name="submit" src="/portal/cms_docs/graphics/submit_cfp.gif" width="52" height="19" border="0" label="submit" value="submit">
+</form>
+<div align="center">--OR--</div>
+<form method="get" action="/web/conferences/callforpapers/index.html">
+<b>By sponsor:</b>
+<BR>
+<input type="hidden" name="var1" value="cfp_filter_society"><input type="hidden" name="loc" value="1$10$1"><select name="var2"><option vaule="none">Quick filter by IEEE Society, Council or other IEEE resource</option><option value="AES       ">IEEE Aerospace and Electronic Systems Society</option><option value="AP        ">IEEE Antennas and Propagation Society</option><option value="ASC       ">IEEE Applied Superconductivity Council</option><option value="BIO       ">IEEE Biometrics Council</option><option value="BOD       ">IEEE Board Meeting Series</option><option value="BT        ">IEEE Broadcast Technology Society</option><option value="CAS       ">IEEE Circuits and Systems Society</option><option value="COM       ">IEEE Communications Society</option><option value="CPMT      ">IEEE Components, Packaging and Manufacturing Technology Society</option><option value="CIS       ">IEEE Computational Intelligence Society</option><option value="C         ">IEEE Computer Society</option><option value="CE        ">IEEE Consumer Electronics Society</option><option value="CS        ">IEEE Control Systems Society</option><option value="CEDA      ">IEEE Council on Electronic Design Automation</option><option value="DEI       ">IEEE Dielectrics and Electrical Insulation Society</option><option value="IEEE-EAB  ">IEEE Education Activities Board</option><option value="E         ">IEEE Education Society</option><option value="EMC       ">IEEE Electromagnetic Compatibility Society</option><option value="ED        ">IEEE Electron Devices Society</option><option value="EMB       ">IEEE Engineering in Medicine and Biology Society</option><option value="GRS       ">IEEE Geoscience and Remote Sensing Society</option><option value="IEEE HIST ">IEEE History Center</option><option value="IE        ">IEEE Industrial Electronics Society</option><option value="IA        ">IEEE Industry Applications Society</option><option value="IT        ">IEEE Information Theory Society</option><option value="IM        ">IEEE Instrumentation and Measurement Society</option><option value="ITS       ">IEEE Intelligent Transportation Systems Society</option><option value="MAG       ">IEEE Magnetics Society</option><option value="MTT       ">IEEE Microwave Theory and Techniques Society</option><option value="NANO      ">IEEE Nanotechnology Council</option><option value="NPS       ">IEEE Nuclear and Plasma Sciences Society</option><option value="OE        ">IEEE Oceanic Engineering Society</option><option value="PHO       ">IEEE Photonics Society</option><option value="PES       ">IEEE Power & Energy Society</option><option value="PEL       ">IEEE Power Electronics Society</option><option value="PSES      ">IEEE Product Safety Engineering Society</option><option value="PC        ">IEEE Professional Communication Society</option><option value="R         ">IEEE Reliability Society</option><option value="RA        ">IEEE Robotics and Automation Society</option><option value="SEN       ">IEEE Sensors Council</option><option value="SP        ">IEEE Signal Processing Society</option><option value="SIT       ">IEEE Social Implications of Technology Society</option><option value="SSC       ">IEEE Solid-State Circuits Society</option><option value="SYSC      ">IEEE Systems Council</option><option value="SMC       ">IEEE Systems, Man, and Cybernetic Society</option><option value="TMC       ">IEEE Technology Management Council</option><option value="IEEE-USA  ">IEEE USA Washington, DC</option><option value="UFFC      ">IEEE Ultrasonics, Ferroelectrics, Frequency Control Society</option><option value="VT        ">IEEE Vehicular Technology Society</option></select>
+
+ 			<input type="image" alt="submit" name="submit" src="/portal/cms_docs/graphics/submit_cfp.gif" width="52" height="19" border="0" label="submit" value="submit">
+</form>
+</td>
+</tr>
+</table>
+</span></td>
+</tr>
+</table>
+<BR>
+<table width="585" border="1" cellpadding="0" cellspacing="0">
+<tr>
+<td width="585"><span class="moduleText">
+<table width="585" border="0" cellpadding="5" cellspacing="5">
+<tr>
+<td width="585">
+<tr>
+<td valign="middle"><b>2013 18th Conference on Electrical Power Distribution Networks (EPDC)   </b>
+<br>
+<b>30 Apr - 01 May 2013</b>
+<br>
+						Conference Location: Kermanshah, Iran<br>
+						Sponsored By: Iran Section<br>
+						Abstract Submission Deadline: 03 Feb 2013<br>
+						Final Paper Submission Deadline: 20 Apr 2013<br>
+<a href="http://www.epdc.ir/english.htm" target="_conferences">Submission Details</a>
+<br>
+<a href="http://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=31064" target="_conferences">Conference Details</a></td>
+</tr>
+<tr>
+<td>
+<div align="center">
+<hr size="1" width="300">
+</div>
+</td>
+</tr>
+<tr>
+<td valign="middle"><b>2013 12th International Conference on Environment and Electrical Engineering (EEEIC)   </b>
+<br>
+<b>05 May - 08 May 2013</b>
+<br>
+						Conference Location: Wroclaw, Poland<br>
+						Sponsored By: Poland Section<br>
+						Abstract Submission Deadline: 28 Feb 2013<br>
+						Final Paper Submission Deadline: 15 Apr 2013<br>
+<a href="http://eeeic.org/call-for-papers.html" target="_conferences">Submission Details</a>
+<br>
+<a href="http://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=21360" target="_conferences">Conference Details</a></td>
+</tr>
+<tr>
+<td>
+<div align="center">
+<hr size="1" width="300">
+</div>
+</td>
+</tr>
+<tr>
+<td valign="middle"><b>2013 International Conference on E-Technologies and Business on the Web (EBW)   </b>
+<br>
+<b>07 May - 09 May 2013</b>
+<br>
+						Conference Location: Bangkok, Thailand<br>
+						Sponsored By: Thailand Section<br>
+						Abstract Submission Deadline: 20 Mar 2013<br>
+						Final Paper Submission Deadline: 30 Apr 2013<br>
+<a href="http://sdiwc.net/conferences/2013/ebw2013/" target="_conferences">Submission Details</a>
+<br>
+<a href="http://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=30513" target="_conferences">Conference Details</a></td>
+</tr>
+<tr>
+<td>
+<div align="center">
+<hr size="1" width="300">
+</div>
+</td>
+</tr>
+<tr>
+<td valign="middle"><b>2013 IEEE 22nd North Atlantic Test Workshop (NATW)   </b>
+<br>
+<b>08 May - 10 May 2013</b>
+<br>
+						Conference Location: Wakefield, MA, USA<br>
+						Sponsored By: Boston Section, Green Mountain Section<br>
+						Abstract Submission Deadline: 15 Feb 2013<br>
+						Final Paper Submission Deadline: 19 Apr 2013<br>
+<a href="http://natw.ieee.org" target="_conferences">Submission Details</a>
+<br>
+<a href="http://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=31139" target="_conferences">Conference Details</a></td>
+</tr>
+<tr>
+<td>
+<div align="center">
+<hr size="1" width="300">
+</div>
+</td>
+</tr>
+<tr>
+<td valign="middle"><b>2013 International Conference on Technological Advances in Electrical, Electronics and Computer Engineering (TAEECE)   </b>
+<br>
+<b>09 May - 11 May 2013</b>
+<br>
+						Conference Location: Konya, Turkey<br>
+						Sponsored By: Region 08 - Europe,Middle East,Africa<br>
+						Abstract Submission Deadline: 20 Mar 2013<br>
+						Final Paper Submission Deadline: 30 Apr 2013<br>
+<a href="http://sdiwc.net/conferences/2013/taeece2013/" target="_conferences">Submission Details</a>
+<br>
+<a href="http://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=30987" target="_conferences">Conference Details</a></td>
+</tr>
+<tr>
+<td>
+<div align="center">
+<hr size="1" width="300">
+</div>
+</td>
+</tr>
+<tr>
+<td valign="middle"><b>2013 Microsystems for Measurement and Instrumentation: Fulfilling the Promise (MAMNA)   </b>
+<br>
+<b>14 May - 14 May 2013</b>
+<br>
+						Conference Location: Gaithersburg, MD, USA<br>
+						Sponsored By: Northern Virginia/Washington Joint Sections NANO Chapter<br>
+						Abstract Submission Deadline: 21 Mar 2013<br>
+						Final Paper Submission Deadline: 02 May 2013<br>
+<a href="http://www.midatlanticmana.com/spring-symposium-may-14-2013-microsystems-technology-fulfilling-the-promise/" target="_conferences">Submission Details</a>
+<br>
+<a href="http://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=31642" target="_conferences">Conference Details</a></td>
+</tr>
+<tr>
+<td>
+<div align="center">
+<hr size="1" width="300">
+</div>
+</td>
+</tr>
+<tr>
+<td valign="middle"><b>2013 24th Annual SEMI Advanced Semiconductor Manufacturing Conference (ASMC)   </b>
+<br>
+<b>14 May - 16 May 2013</b>
+<br>
+						Conference Location: Saratoga Springs, NY, USA<br>
+						Sponsored By: Components, Packaging and Manufacturing Technology Society - CPMT, Electron Devices Society - ED<br>
+						Abstract Submission Deadline: 31 Oct 2012<br>
+						Final Paper Submission Deadline: 25 Apr 2013<br>
+<a href="http://www.semi.org/en/node/38316" target="_conferences">Submission Details</a>
+<br>
+<a href="http://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=30274" target="_conferences">Conference Details</a></td>
+</tr>
+<tr>
+<td>
+<div align="center">
+<hr size="1" width="300">
+</div>
+</td>
+</tr>
+<tr>
+<td valign="middle"><b>2013 International Symposium on Electrodynamic and Mechatronic Systems (SELM)   </b>
+<br>
+<b>15 May - 18 May 2013</b>
+<br>
+						Conference Location: Opole-Zawiercie, Poland<br>
+						Sponsored By: Poland Section, Poland Section - Opole Student Branch, Poland Section MAG Chapter<br>
+						Abstract Submission Deadline: 01 Feb 2013<br>
+						Final Paper Submission Deadline: 30 Apr 2013<br>
+<a href="http://selm2013.ieeeopole.org" target="_conferences">Submission Details</a>
+<br>
+<a href="http://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=30902" target="_conferences">Conference Details</a></td>
+</tr>
+<tr>
+<td>
+<div align="center">
+<hr size="1" width="300">
+</div>
+</td>
+</tr>
+<tr>
+<td valign="middle"><b>2013 Conference on Future Internet Communications (CFIC)   </b>
+<br>
+<b>15 May - 16 May 2013</b>
+<br>
+						Conference Location: Coimbra, Portugal<br>
+						Sponsored By: Portugal Section<br>
+						Abstract Submission Deadline: 15 Feb 2013<br>
+						Final Paper Submission Deadline: 19 Apr 2013<br>
+<a href="http://cfic2013.uc.pt/call_for_papers/" target="_conferences">Submission Details</a>
+<br>
+<a href="http://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=31108" target="_conferences">Conference Details</a></td>
+</tr>
+<tr>
+<td>
+<div align="center">
+<hr size="1" width="300">
+</div>
+</td>
+</tr>
+<tr>
+<td align="right"><a href="/web/conferences/callforpapers/index.html?var1=&amp;var2=&amp;var3=&amp;loc=10$20$1">Next ></a></td>
+</tr>
+</td>
+</tr>
+</table>
+</span></td>
+</tr>
+</table>
+</div>
+</div>
+</div>
+
+
+	  
+	  
+	
+
+
+	
+    
+
+
+		
+		
+			  
+
+
+          </td>
+        </tr>
+      </table>
+    </td>
+
+      <!-- horizontal spacer between div/column layouts - begins -->
+
+	  <!-- horizontal spacer between div/column layouts - ends -->
+
+    <td width=170 valign="top" align="left">
+  
+
+      <table cellspacing="0" cellpadding="0" border="0" width="100%">
+        <tr>
+          <td>
+
+   
+
+		
+			    
+    
+        
+	
+	  
+	    
+
+
+
+
+
+
+
+	  
+	  
+	
+
+
+	
+    
+
+
+    
+        
+	
+	  
+	    
+
+
+
+
+
+
+
+	  
+	  
+	
+
+
+	
+    
+
+
+    
+        
+	
+	  
+	    
+
+
+
+
+<xmlroot>
+
+</xmlroot>
+
+
+	  
+	  
+	
+
+
+	
+    
+
+
+		
+		
+			  
+
+
+          </td>
+        </tr>
+      </table>
+    </td>
+
+
+  </tr>
+
+  
+
+ 
+
+
+</table>
+
+
+                                <!-- End pageContent -->
+                            </td>
+                        </tr>
+                        <tr>
+                            <td><!-- Begin Footer -->
+                            
+
+<table width="856" border="0" cellspacing="0" bgcolor="#FFFFFF" cellpadding="0">
+    <tr>
+        <td><hr width="850" noshade="noshade" size="1" color="#006699" /></td>
+    </tr>
+</table>
+<!-- Begin Footer-->
+<table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
+    <tr>
+        <td colspan="2"><div align="right"><img src="/portal/cms_docs_iportals/iportals/global/images/spacer.gif" alt="" width="1" height="1" hspace="0" vspace="0" /> </div></td>
+    </tr>
+    <tr>
+        <td width="10" class="bottomnav"><img src="/portal/cms_docs_iportals/iportals/global/images/spacer.gif" alt="" width="10" height="1" /></td>
+        <td class="bottomnav"><a href="/portal/site/iportals/?WT.mc_id=ft_home" class="bottomnav">IEEE Home</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="/web/services/general/sitemap.html?WT.mc_id=ft_smap" class="bottomnav">Sitemap</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="/web/web/search/index.html?WT.mc_id=ft_search" class="bottomnav">Search</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="/web/publications/rights/privacy.html?WT.mc_id=ft_privacy" class="bottomnav">Privacy &amp; Security</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="/web/publications/rights/legal.html?WT.mc_id=ft_terms" class="bottomnav">Terms &amp; Conditions</a>
+        &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="http://www.ieee.org/web/aboutus/whatis/policies/p9-26.html" class="bottomnav">Nondiscrimination Policy</a>
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2"><div align="right"><img src="/portal/cms_docs_iportals/iportals/global/images/spacer.gif" alt="" width="1" height="1" hspace="0" vspace="4" /> </div></td>
+    </tr>
+</table>
+<table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
+    <tr>
+        <td width="71%" valign="top"><table width="100%" border="0" cellpadding="0" cellspacing="0" class="footer">
+            <tr>
+                <td colspan="2" valign="top"><img src="/portal/cms_docs_iportals/iportals/global/images/spacer.gif" alt="" width="1" height="1" /></td>
+            </tr>
+            <tr>
+                <td width="10"><img src="/portal/cms_docs_iportals/iportals/global/images/spacer.gif" alt="" width="10" height="1" /></td>
+                <td valign="top" class="footerGrey"><br /><br />&copy; Copyright 2013 IEEE &#8211; All Rights Reserved.<br />
+                Use of this website signifies your agreement to the Terms of Use.<br />
+                For questions or comments, please contact the <a href="/web/services/general/webmaster.html?WT.mc_id=ft_webmaster">IEEE Webmaster</a>.</td>
+            </tr>
+        </table></td>
+                <td width="12%"><div align="right" class="footerGrey">&nbsp;</div></td>
+				<td width="17%"><div id="iportal-footer-logo"><a href="/portal/site/iportals?WT.mc_id=ft_home"><img src="/portal/cms_docs_iportals/iportals/global/images/footer_logo_125.gif" alt="IEEE Logo" name="inspec" width="125" height="74" hspace="0" vspace="2" border="0" id="inspec" /></a></div></td>
+            </tr>
+       
+</table>
+<!-- Google Analytics -->
+<script type="text/javascript">
+    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+    var pageTracker = _gat._getTracker("UA-4930232-1");
+    pageTracker._trackPageview();
+</script>
+<!-- End Google Analytics -->
+<!-- End Footer-->
+
+<!-- End Footer --></td>
+                        </tr>
+                    </table></td>
+                    <td width="13" background="/portal/cms_docs_iportals/iportals/global/images/ieee_rightbrdr.gif"><img src="/portal/cms_docs_iportals/iportals/global/images/spacer.gif" width="13" height="1" alt=""/></td>
+                </tr>
+                <tr>
+                    <td colspan="3"><img src="/portal/cms_docs_iportals/iportals/global/images/ieee_bottombar.gif" width="882" height="23" alt=""/></td>
+                </tr>
+            </table>
+            <!-- End Outer Wrapper -->
+        </body>
+    </html>	
